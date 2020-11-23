@@ -1,4 +1,4 @@
-module github.com/didi/nightingale
+module github.com/Sad-polar-bear/nightingale
 
 go 1.12
 
